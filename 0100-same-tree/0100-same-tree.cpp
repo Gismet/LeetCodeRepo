@@ -14,7 +14,8 @@
      Let's imagine that trees are the same. Then this suggests that we can traverse them the same way. 
      Traversing them the same way will ensure that trees are the same structurally.
      But bear in mind that the nodes in both trees must be same. So we have to check if the nodes have the same values too.
-     I have also checked if both trees are NULL. In that case thay are structurally identical and no need to check if the nodes have the same values. We can return true
+     I have also checked if both trees are NULL. In that case thay are structurally identical and no need to check if the nodes have the same values. We can return true.
+     In any other case we can return false
 
 */
 
